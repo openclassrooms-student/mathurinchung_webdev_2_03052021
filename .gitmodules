@@ -1,0 +1,3 @@
+[submodule "reservia"]
+	path = reservia
+	url = https://github.com/mathurinchung/reservia
